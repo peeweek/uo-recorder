@@ -1,6 +1,6 @@
 # uo-recorder
 
-Untouched copy of the Unity Recorder (Github/Local package mode)
+Untouched copy of the Unity Recorder (Github/Local package mode) for 2018
 
 ## Install 
 
